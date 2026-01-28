@@ -85,11 +85,14 @@ pytest -m smoke
 🔹 Run Regression Tests
 pytest -m regression
 📸 Screenshots on Failure
-<img width="1920" height="1080" alt="Screenshot 2026-01-22 121310" src="https://github.com/user-attachments/assets/f0be9414-6c63-40ee-879f-5850343cdf81" />
+
 <img width="1920" height="1080" alt="Screenshot 2026-01-22 121325" src="https://github.com/user-attachments/assets/09d06daf-9b29-415d-8a05-ec8179d075ca" />
+
 <img width="1920" height="1080" alt="Screenshot 2026-01-22 121347" src="https://github.com/user-attachments/assets/8d7a8e38-6615-4a25-878a-ea5d2b10088e" />
 
-Screenshots are automatically captured only on test failure
+📸 screenshots on Success
+
+<img width="1920" height="1080" alt="Screenshot 2026-01-22 121310" src="https://github.com/user-attachments/assets/f0be9414-6c63-40ee-879f-5850343cdf81" />
 
 Stored in:
 
@@ -110,6 +113,7 @@ Failure debugging using screenshots
 Enterprise-level test organization
 
 Test categorization (Smoke & Regression)
+
 
 
 
