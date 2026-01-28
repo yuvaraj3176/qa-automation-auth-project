@@ -59,20 +59,6 @@ qa_automation_auth_project/
 
 ---
 
-## 🔑 Features Implemented
-
-- ✅ Automated Login with valid & invalid credentials
-- ✅ Forgot Password workflow automation
-- ✅ Page Object Model (POM)
-- ✅ Data-Driven Testing using CSV
-- ✅ Explicit waits for synchronization
-- ✅ Screenshot capture on test failure
-- ✅ Logging for execution tracking
-- ✅ HTML test execution report
-- ✅ Smoke & Regression test markers
-- ✅ Localhost login page testing
-
----
 
 ## 🌐 Local Login Application (Test Environment)
 
@@ -124,6 +110,7 @@ Failure debugging using screenshots
 Enterprise-level test organization
 
 Test categorization (Smoke & Regression)
+
 
 
 
